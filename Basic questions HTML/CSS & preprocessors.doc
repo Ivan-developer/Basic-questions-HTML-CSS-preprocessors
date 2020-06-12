@@ -1,0 +1,46 @@
+Basic questions HTML/CSS & preprocessors
+
+1.	Which tags are mandatory on the page?
+2.	What is HTML5? What is the difference with HTML4? How to create HTML5 page?
+3.	What is tag attribute? What are they used for?
+4.	What is the difference between display: block;, display: inline;, display: inline-block;?
+5.	Which tags are inline and which are block tags?
+6.	How to set width and height for span element?
+7.	What is the space between inline elements? How to remove it?
+8.	Do all tags has closing tag?
+9.	What is semantic markup? Why is it important?
+10.	How to create a common website layout? Which tags will you use?
+11.	What are default browser styles? What is the difference between styles reset and styles normalization?
+12.	How to display html code on the page? (<> - should be displayed as it is)
+13.	What is the usage of <figure> tag?
+14.	What is specific about id attribute? What is it used for?
+15.	How to create vertical space between elements on the page?
+16.	What are CSS selectors? What are they used for?
+17.	How to find an element on the page?
+18.	What kinds of CSS selectors do you know? Provide examples please?
+19.	What is the difference between pseudo classes and pseudo elements?
+20.	What is box-model? How to define element size?
+21.	If different selectors define styles for same element then how to know which style will be applied?
+22.	How to select 3rd element in a list of 3 elements? Give multiple ways please
+23.	What is style inheritance?
+24.	What are absolute and relative units in CSS? List all you know please?
+25.	What is absolute positioning? What is it used for?
+26.	What is float layout? What is clearfix?
+27.	What is flexbox layout? What are main and secondary axis in flexbox layout?
+28.	You have div (width and height 10 px) inside another div (width and height 100 px)? How to center vertically and horizontally small div inside a big one? List several ways please
+29.	What is margin overlap? How it works for elements inside flexbox container?
+30.	How to style checkbox?
+31.	How to define a different border color for each side of the element?
+32.	What are mandatory elements for an HTML form?
+33.	How to create a multiline text input in a form?
+34.	What validation attributes do you know?
+35.	What is an iframe? What is it used for?
+36.	How to create a list in HTML? What kind of lists do you know?
+37.	How to create CSS animation?
+38.	What is responsive markup? How to achive?
+39.	What is the difference between adaptive and responsive markup?
+40.	What is CSS breakpoint? How to choose breakpoints?
+41.	How do mediaqueries work? Which properties we can handle with mediaqueries?
+42.	What is preprocessor? What features does it have? What problems does it solve?
+43.	What is BEM methodology? Which problems does it solve?
+44.	Can the element has block and element classes in the same time?
